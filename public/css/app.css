@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+p {
+    color: white;
+}
+
+.quote {
+    font: 400 72px "Helvetica", Helvetica, sans-serif;
+    color: #F4645F;
+    text-align: center;
+}
+
+.post-title {
+    color: #F4645F;
+}
